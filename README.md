@@ -56,7 +56,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/DamonSalvatore122/Guardio-Reporting-App.git
 cd anonymous-reporting-system
 
 # Install dependencies
